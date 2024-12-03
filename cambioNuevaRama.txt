@@ -1,1 +1,1 @@
-Esto es otro cambio en el mismo sitio para generar conflicto
+Esto es un cambio para generar conflicto
